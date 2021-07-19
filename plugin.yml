@@ -1,0 +1,11 @@
+name: RenameMenu
+main: Zqko\RepairRenameUI\Main
+version: 1.0.2
+api: 3.0.0
+author: Zqko
+depend:
+ - EconomyAPI
+
+commands:
+ rename:
+  description: "Rename an item!"
